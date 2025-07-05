@@ -106,7 +106,7 @@
     "tiny-secp256k1-browserify": "^2.2.1-2",
     "tron-protocol-ts": "^1.0.5",
     "tron-wallet-hd": "^2.0.2",
-    "tronweb": "^4.3.0",
+    "tronweb": "^6.0.3",
     "tronweb-typings": "^1.0.1",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
